@@ -1,1 +1,2 @@
-# test
+This repository contains code for a 2D physics engine. To compile, run the makefile with command 'make' or run each line of code in the file. To execute, run the executable 'main' after compilation.
+Executing the file will open a window showing the area of constraint. Press the space bar to spawn a new object.
